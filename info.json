@@ -1,0 +1,14 @@
+[
+	{
+		"name": "ubuntu-2004-amd64-2101",
+		"desc": "Ubuntu 20.04 rootfs + 850 drivers",
+		"sha256": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6",
+		"url": "http://dist-ipfs.fex-emu.org/rootfs/ubuntu-20.04.1-base-amd64-2101.tar.gz"
+	},
+	{
+		"name": "ubuntu-2010-amd64-2101",
+		"desc": "Ubuntu 20.10 rootfs + 850 drivers",
+		"sha256": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6",
+		"url": "http://dist-ipfs.fex-emu.org/rootfs/ubuntu-20.10-base-amd64-2101.tar.gz"
+	}
+]
